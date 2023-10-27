@@ -1,0 +1,19 @@
+{
+  "name": "hallbookingapi",
+  "version": "1.0.0",
+  "description": "This API is for booking a hall in a hotel",
+  "main": "index.js",
+  "engines": {
+    "node": "18.18.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Benjamin D",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
